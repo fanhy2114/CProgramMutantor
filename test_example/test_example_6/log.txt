@@ -1,0 +1,51 @@
+Now Log is Recording : 
+
+The function /*  int ssl3_accept(int initial_state )   */  is in line : 12
+
+The 0 time(s) mutation is   /* double_op mutation */  : temp_mutate_0.c is generated :In line 92 , != is replaced by || .
+
+
+The 1 time(s) mutation is   /* single_op mutation */  : temp_mutate_1.c is generated :In line 105 ,  + is replaced by  - .
+
+
+The 2 time(s) mutation is   /* dec mutation */        : temp_mutate_2.c is generated :In line 78 ,  0 is replaced by  2 .
+
+
+The 3 time(s) mutation is   /* double_op mutation */  : temp_mutate_3.c is generated :In line 97 , != is replaced by >> .
+
+
+The 4 time(s) mutation is   /* dec mutation */        : temp_mutate_4.c is generated :In line 84 ,  0 is replaced by  1 .
+
+
+The 5 time(s) mutation is   /* double_op mutation */  : temp_mutate_5.c is generated :In line 112 , == is replaced by && .
+
+
+The 6 time(s) mutation is   /* double_op mutation */  : temp_mutate_6.c is generated :In line 123 , == is replaced by >= .
+
+
+The 7 time(s) mutation is   /* double_op mutation */  : temp_mutate_7.c is generated :In line 127 , == is replaced by && .
+
+
+The 8 time(s) mutation is   /* double_op mutation */  : temp_mutate_8.c is generated :In line 131 , == is replaced by != .
+
+
+All temporary mutation files has been generated and write in .
+
+Final file  mutate_0.c has been wirte in .
+
+Final file  mutate_1.c has been wirte in .
+
+Final file  mutate_2.c has been wirte in .
+
+Final file  mutate_3.c has been wirte in .
+
+Final file  mutate_4.c has been wirte in .
+
+Final file  mutate_5.c has been wirte in .
+
+Final file  mutate_6.c has been wirte in .
+
+Final file  mutate_7.c has been wirte in .
+
+Final file  mutate_8.c has been wirte in .
+

@@ -1,0 +1,82 @@
+Now Log is Recording : 
+
+The function /*  static void friq_write_block(PIA *pi , char *buf , int count )   */  is in line : 4449
+
+The 0 time(s) mutation is   /* single_op mutation */  : temp_mutate_0.c is generated :In line 5010 ,  + is replaced by  * .
+
+
+The 1 time(s) mutation is   /* name mutation */       : temp_mutate_1.c is generated :In line 4850 , u16 is replaced by __cil_tmp402 .
+
+
+The 2 time(s) mutation is   /* name mutation */       : temp_mutate_2.c is generated :In line 4849 , u16 is replaced by __cil_tmp402 .
+
+
+The 3 time(s) mutation is   /* double_op mutation */  : temp_mutate_3.c is generated :In line 5011 , == is replaced by >> .
+
+
+The 4 time(s) mutation is   /* dec mutation */        : temp_mutate_4.c is generated :In line 5014 ,  1 is replaced by  2 .
+
+
+The 5 time(s) mutation is   /* double_op mutation */  : temp_mutate_5.c is generated :In line 5017 , == is replaced by && .
+
+
+The 6 time(s) mutation is   /* double_op mutation */  : temp_mutate_6.c is generated :In line 5020 , == is replaced by >> .
+
+
+The 7 time(s) mutation is   /* single_op mutation */  : temp_mutate_7.c is generated :In line 5038 ,  + is replaced by  - .
+
+
+The 8 time(s) mutation is   /* dec mutation */        : temp_mutate_8.c is generated :In line 5023 ,  4 is replaced by  3 .
+
+
+The 9 time(s) mutation is   /* dec mutation */        : temp_mutate_9.c is generated :In line 5026 ,  0 is replaced by -2 .
+
+
+The 10 time(s) mutation is   /* single_op mutation */  : temp_mutate_10.c is generated :In line 5031 ,  + is replaced by  / .
+
+
+The 11 time(s) mutation is   /* dec mutation */        : temp_mutate_11.c is generated :In line 5033 ,  2 is replaced by  3 .
+
+
+The 12 time(s) mutation is   /* double_op mutation */  : temp_mutate_12.c is generated :Mutaion_Mode exist , but no line fit it , try another mode. 
+The 12 time(s) mutation is   /* name mutation */       : temp_mutate_12.c is generated :In line 4851 , __cil_tmp405 is replaced by u16 .
+
+
+The 13 time(s) mutation is   /* single_op mutation */  : temp_mutate_13.c is generated :In line 5042 ,  + is replaced by  - .
+
+
+The 14 time(s) mutation is   /* dec mutation */        : temp_mutate_14.c is generated :In line 5053 ,  8 is replaced by 10 .
+
+
+All temporary mutation files has been generated and write in .
+
+Final file  mutate_0.c has been wirte in .
+
+Final file  mutate_1.c has been wirte in .
+
+Final file  mutate_2.c has been wirte in .
+
+Final file  mutate_3.c has been wirte in .
+
+Final file  mutate_4.c has been wirte in .
+
+Final file  mutate_5.c has been wirte in .
+
+Final file  mutate_6.c has been wirte in .
+
+Final file  mutate_7.c has been wirte in .
+
+Final file  mutate_8.c has been wirte in .
+
+Final file  mutate_9.c has been wirte in .
+
+Final file  mutate_10.c has been wirte in .
+
+Final file  mutate_11.c has been wirte in .
+
+Final file  mutate_12.c has been wirte in .
+
+Final file  mutate_13.c has been wirte in .
+
+Final file  mutate_14.c has been wirte in .
+

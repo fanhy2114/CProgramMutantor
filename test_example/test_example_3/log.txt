@@ -1,0 +1,53 @@
+Now Log is Recording : 
+
+The function /*  static int zf_ioctl(struct inode *inode , struct file *file , unsigned int cmd , unsigned long arg )   */  is in line : 1323
+
+The function /*  void call_genhd_functions(void)   */  is in line : 2684
+
+The 0 time(s) mutation is   /* dec mutation */        : temp_mutate_0.c is generated :In line 1371 ,  0 is replaced by -2 .
+
+
+The 1 time(s) mutation is   /* single_op mutation */  : temp_mutate_1.c is generated :In line 1361 ,  | is replaced by  < .
+
+
+The 2 time(s) mutation is   /* dec mutation */        : temp_mutate_2.c is generated :In line 1375 , 16 is replaced by 17 .
+
+
+The 3 time(s) mutation is   /* double_op mutation */  : temp_mutate_3.c is generated :In line 1357 , == is replaced by != .
+
+
+The 4 time(s) mutation is   /* double_op mutation */  : temp_mutate_4.c is generated :In line 1365 , == is replaced by <= .
+
+
+The 5 time(s) mutation is   /* name mutation */       : temp_mutate_5.c is generated :In line 1377 , __cil_tmp11 is replaced by __cil_tmp25 .
+
+
+The 6 time(s) mutation is   /* name mutation */       : temp_mutate_6.c is generated :In line 1381 , __cil_tmp13 is replaced by __cil_tmp12 .
+
+
+The 7 time(s) mutation is   /* dec mutation */        : temp_mutate_7.c is generated :In line 1390 , 40 is replaced by 42 .
+
+
+The 8 time(s) mutation is   /* name mutation */       : temp_mutate_8.c is generated :In line 1383 , __cil_tmp12 is replaced by __cil_tmp13 .
+
+
+All temporary mutation files has been generated and write in .
+
+Final file  mutate_0.c has been wirte in .
+
+Final file  mutate_1.c has been wirte in .
+
+Final file  mutate_2.c has been wirte in .
+
+Final file  mutate_3.c has been wirte in .
+
+Final file  mutate_4.c has been wirte in .
+
+Final file  mutate_5.c has been wirte in .
+
+Final file  mutate_6.c has been wirte in .
+
+Final file  mutate_7.c has been wirte in .
+
+Final file  mutate_8.c has been wirte in .
+

@@ -1,0 +1,85 @@
+Now Log is Recording : 
+
+The function /*  static struct usb_serial *get_usb_serial(struct usb_serial_port *port , char const   *function )   */  is in line : 4343
+
+The function /*  static void qt_write_bulk_callback(struct urb *urb )   */  is in line : 4447
+
+The function /*  static void qt_read_bulk_callback(struct urb *urb )   */  is in line : 4545
+
+The 0 time(s) mutation is   /* name mutation */       : temp_mutate_0.c is generated :In line 4518 , __cil_tmp13 is replaced by __cil_tmp14 .
+
+
+The 1 time(s) mutation is   /* dec mutation */        : temp_mutate_1.c is generated :In line 4468 , 96 is replaced by 95 .
+
+
+The 2 time(s) mutation is   /* single_op mutation */  : temp_mutate_2.c is generated :In line 4521 ,  + is replaced by  / .
+
+
+The 3 time(s) mutation is   /* double_op mutation */  : temp_mutate_3.c is generated :In line 4828 , != is replaced by >> .
+
+
+The 4 time(s) mutation is   /* dec mutation */        : temp_mutate_4.c is generated :In line 4472 ,  1 is replaced by -1 .
+
+
+The 5 time(s) mutation is   /* dec mutation */        : temp_mutate_5.c is generated :In line 4494 , 176 is replaced by 178 .
+
+
+The 6 time(s) mutation is   /* double_op mutation */  : temp_mutate_6.c is generated :In line 4882 , == is replaced by && .
+
+
+The 7 time(s) mutation is   /* single_op mutation */  : temp_mutate_7.c is generated :In line 4352 ,  ! is replaced by    .
+
+
+The 8 time(s) mutation is   /* dec mutation */        : temp_mutate_8.c is generated :In line 4498 ,  1 is replaced by  0 .
+
+
+The 9 time(s) mutation is   /* double_op mutation */  : temp_mutate_9.c is generated :In line 4913 , == is replaced by >> .
+
+
+The 10 time(s) mutation is   /* double_op mutation */  : temp_mutate_10.c is generated :In line 4973 , <= is replaced by || .
+
+
+The 11 time(s) mutation is   /* single_op mutation */  : temp_mutate_11.c is generated :In line 4706 ,  + is replaced by  * .
+
+
+The 12 time(s) mutation is   /* single_op mutation */  : temp_mutate_12.c is generated :In line 4709 ,  + is replaced by  * .
+
+
+The 13 time(s) mutation is   /* single_op mutation */  : temp_mutate_13.c is generated :In line 4739 ,  + is replaced by  / .
+
+
+The 14 time(s) mutation is   /* double_op mutation */  : temp_mutate_14.c is generated :In line 4978 , == is replaced by != .
+
+
+All temporary mutation files has been generated and write in .
+
+Final file  mutate_0.c has been wirte in .
+
+Final file  mutate_1.c has been wirte in .
+
+Final file  mutate_2.c has been wirte in .
+
+Final file  mutate_3.c has been wirte in .
+
+Final file  mutate_4.c has been wirte in .
+
+Final file  mutate_5.c has been wirte in .
+
+Final file  mutate_6.c has been wirte in .
+
+Final file  mutate_7.c has been wirte in .
+
+Final file  mutate_8.c has been wirte in .
+
+Final file  mutate_9.c has been wirte in .
+
+Final file  mutate_10.c has been wirte in .
+
+Final file  mutate_11.c has been wirte in .
+
+Final file  mutate_12.c has been wirte in .
+
+Final file  mutate_13.c has been wirte in .
+
+Final file  mutate_14.c has been wirte in .
+

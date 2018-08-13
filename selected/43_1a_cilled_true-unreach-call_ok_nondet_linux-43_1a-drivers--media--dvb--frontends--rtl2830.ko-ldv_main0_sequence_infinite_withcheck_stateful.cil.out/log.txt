@@ -1,0 +1,86 @@
+Now Log is Recording : 
+
+The function /*  int rtl2830_wr_reg_mask(struct rtl2830_priv *priv , u16 reg , u8 val , u8 mask )   */  is in line : 3608
+
+The function /*  static int rtl2830_read_status(struct dvb_frontend *fe , fe_status_t *status )   */  is in line : 6098
+
+The 0 time(s) mutation is   /* double_op mutation */  : temp_mutate_0.c is generated :In line 3644 , != is replaced by == .
+
+
+The 1 time(s) mutation is   /* double_op mutation */  : temp_mutate_1.c is generated :In line 3650 , != is replaced by >= .
+
+
+The 2 time(s) mutation is   /* single_op mutation */  : temp_mutate_2.c is generated :In line 6127 ,  + is replaced by  * .
+
+
+The 3 time(s) mutation is   /* single_op mutation */  : temp_mutate_3.c is generated :In line 6168 ,  | is replaced by  + .
+
+
+The 4 time(s) mutation is   /* single_op mutation */  : temp_mutate_4.c is generated :In line 6133 ,  + is replaced by  / .
+
+
+The 5 time(s) mutation is   /* name mutation */       : temp_mutate_5.c is generated :In line 3610 , tmp is replaced by ret .
+
+
+The 6 time(s) mutation is   /* double_op mutation */  : temp_mutate_6.c is generated :In line 6146 , != is replaced by && .
+
+
+The 7 time(s) mutation is   /* name mutation */       : temp_mutate_7.c is generated :In line 3614 , __cil_tmp10 is replaced by __cil_tmp9 .
+
+
+The 8 time(s) mutation is   /* single_op mutation */  : temp_mutate_8.c is generated :Mutaion_Mode exist , but no line fit it , try another mode. 
+The 8 time(s) mutation is   /* single_op mutation */  : temp_mutate_8.c is generated :In line 6158 ,  | is replaced by  / .
+
+
+The 9 time(s) mutation is   /* dec mutation */        : temp_mutate_9.c is generated :In line 6136 ,  0 is replaced by  1 .
+
+
+The 10 time(s) mutation is   /* single_op mutation */  : temp_mutate_10.c is generated :In line 3679 ,  | is replaced by  / .
+
+
+The 11 time(s) mutation is   /* double_op mutation */  : temp_mutate_11.c is generated :In line 6155 , == is replaced by != .
+
+
+The 12 time(s) mutation is   /* name mutation */       : temp_mutate_12.c is generated :In line 3618 , __cil_tmp14 is replaced by __cil_tmp12 .
+
+
+The 13 time(s) mutation is   /* name mutation */       : temp_mutate_13.c is generated :In line 3623 , __cil_tmp19 is replaced by __cil_tmp16 .
+
+
+The 14 time(s) mutation is   /* single_op mutation */  : temp_mutate_14.c is generated :Mutaion_Mode exist , but no line fit it , try another mode. 
+The 14 time(s) mutation is   /* single_op mutation */  : temp_mutate_14.c is generated :Mutaion_Mode exist , but no line fit it , try another mode. 
+The 14 time(s) mutation is   /* dec mutation */        : temp_mutate_14.c is generated :In line 6142 , 849 is replaced by 847 .
+
+
+All temporary mutation files has been generated and write in .
+
+Final file  mutate_0.c has been wirte in .
+
+Final file  mutate_1.c has been wirte in .
+
+Final file  mutate_2.c has been wirte in .
+
+Final file  mutate_3.c has been wirte in .
+
+Final file  mutate_4.c has been wirte in .
+
+Final file  mutate_5.c has been wirte in .
+
+Final file  mutate_6.c has been wirte in .
+
+Final file  mutate_7.c has been wirte in .
+
+Final file  mutate_8.c has been wirte in .
+
+Final file  mutate_9.c has been wirte in .
+
+Final file  mutate_10.c has been wirte in .
+
+Final file  mutate_11.c has been wirte in .
+
+Final file  mutate_12.c has been wirte in .
+
+Final file  mutate_13.c has been wirte in .
+
+Final file  mutate_14.c has been wirte in .
+
